@@ -1,5 +1,7 @@
 streamlit
-geopandas
+geopandas==0.14.3
+shapely
+fiona
 pandas
 folium
 streamlit-folium
